@@ -7,7 +7,8 @@
 #### This is Md Faisal Farooquee. I am in 3rd year, pursued B.Tech in the department of Information Technology.
 #### I used to develop cross platform react native applications. I am also interested in machine learning and Artificial Intelligence, and love to work on projects based on 4 Artificial Intelligence and deep neural networks with tensorflow. 
 
-<img src="https://github-readme-stats.vercel.app/api?username=khanfarhan10&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cotex05&layout=compact&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=Cotex05&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cotex05&layout=compact&theme=tokyonight">
 
 ### Interests
 
