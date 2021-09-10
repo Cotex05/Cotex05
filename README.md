@@ -14,7 +14,9 @@
 
 * Machine Learning Enthusiast
 * Passionate for Competitive Programming (3⭐(max-rating: 1745) on codechef) [see profile](https://www.codechef.com/users/faisal_5/)
-* Secondary interest in Ethical Hacking and Cyber Security, beginner in tryhackme. [see profile](https://tryhackme.com/p/Butye) <script src="https://tryhackme.com/badge/229975"></script>
+* Secondary interest in Ethical Hacking and Cyber Security, beginner in tryhackme. [see profile](https://tryhackme.com/p/Butye) <img width="249" height="58" src="https://imgshare.io/images/2021/09/10/Butye.png" alt="TryHackMe" />
+
+
 #### Profiles
 
 * [Codechef](https://www.codechef.com/users/faisal_5/)
