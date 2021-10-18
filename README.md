@@ -15,7 +15,7 @@
 
 ### Interests
 
-<img align="right" alt="GIF" src="https://imgshare.io/images/2021/09/10/download.gif" width="400" height="200" />
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif" width="400" height="200" />
 
 * Machine Learning Enthusiast
 * Passionate for Competitive Programming (3⭐(max-rating: 1745) on codechef, Geeksforgeeks: score > 1000 points) [see profile](https://www.codechef.com/users/faisal_5/)
