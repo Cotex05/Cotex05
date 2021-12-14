@@ -18,7 +18,10 @@
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif" width="400" height="300" />
 
 * Machine Learning Enthusiast
-* Passionate for Competitive Programming (3⭐(max-rating: 1745) on codechef, Geeksforgeeks: score > 1000 points) [see profile](https://www.codechef.com/users/faisal_5/)
+* Passionate for Competitive Programming:
+  - 4⭐(max-rating: 1820) @codechef -
+  - Geeksforgeeks: score > 1350 points 
+  - 6 ⭐ @HackerRank) [see profile](https://www.codechef.com/users/faisal_5/)
 * Secondary interest in Ethical Hacking and Cyber Security, beginner in tryhackme. [see profile](https://tryhackme.com/p/Butye)
 * <img width="249" height="58" src="https://i.ibb.co/gRMr474/Butye-1.png" alt="TryHackMe" />
 
