@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Cotex05&label=Profile+Views&color=green&style=plastic%22%20alt=%22Cotex05" /> </p>
 
-#### This is Md Faisal Farooquee. I am in 3rd year, pursued B.Tech in the department of Information Technology.
+#### This is Md Faisal Farooquee. I am in pre-final year, pursued B.Tech in the department of Information Technology.
 #### I used to develop cross platform react native applications. I am also interested in machine learning and Artificial Intelligence, and love to work on projects based on Artificial Intelligence and deep neural networks with tensorflow. 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Cotex05&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> 
@@ -21,7 +21,7 @@
 * Passionate for Competitive Programming:
   - Codechef: 4⭐(max-rating: 1820) [see profile](https://www.codechef.com/users/faisal_5/)
   - Geeksforgeeks: 1350 points [see profile](https://auth.geeksforgeeks.org/user/faisalfarooquee/practice/)
-  - HackerRank: 6 ⭐ [see profile](https://www.hackerrank.com/Faisal_Farooquee)
+  - HackerRank [see profile](https://www.hackerrank.com/Faisal_Farooquee)
 * Secondary interest in Ethical Hacking and Cyber Security, beginner in tryhackme. [see profile](https://tryhackme.com/p/Butye)
 * <img width="249" height="58" src="https://i.ibb.co/gRMr474/Butye-1.png" alt="TryHackMe" />
 
