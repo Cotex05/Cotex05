@@ -20,7 +20,7 @@
 * Machine Learning Enthusiast
 * Passionate for Competitive Programming:
   - Codechef: 4⭐(max-rating: 1820) [see profile](https://www.codechef.com/users/faisal_5/)
-  - Geeksforgeeks: 1350 points [see profile](https://auth.geeksforgeeks.org/user/faisalfarooquee/practice/)
+  - Geeksforgeeks: 1400+ points [see profile](https://auth.geeksforgeeks.org/user/faisalfarooquee/practice/)
   - HackerRank [see profile](https://www.hackerrank.com/Faisal_Farooquee)
 * Secondary interest in Ethical Hacking and Cyber Security, beginner in tryhackme. [see profile](https://tryhackme.com/p/Butye)
 * <img width="249" height="58" src="https://i.ibb.co/gRMr474/Butye-1.png" alt="TryHackMe" />
