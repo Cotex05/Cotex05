@@ -17,7 +17,7 @@
 
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif" width="400" height="300" />
 
-* Machine Learning Enthusiast
+* Solidity (Smart Contracts), Ethereum Blockchain Development.
 * Passionate for Competitive Programming:
   - Codechef: 4⭐(max-rating: 1820) [see profile](https://www.codechef.com/users/faisal_5/)
   - Codeforces: (max-rating: 1140) [see profile](https://codeforces.com/profile/cotex)
