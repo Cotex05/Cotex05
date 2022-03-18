@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Cotex05&label=Profile+Views&color=green&style=plastic%22%20alt=%22Cotex05" /> </p>
 
 #### This is Md Faisal Farooquee. I am in pre-final year, pursued B.Tech in the department of Information Technology.
-#### I used to develop cross platform react native applications. I am also interested in machine learning and Artificial Intelligence, and love to work on projects based on Artificial Intelligence and deep neural networks with tensorflow. 
+#### I use to develop cross platform React Native Mobile Apps and MERN Stack applications. I am also interested in Ethereum Blockchain technology and building Web3 based Dapps. 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Cotex05&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cotex05&layout=compact&theme=tokyonight">
