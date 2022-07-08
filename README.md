@@ -20,7 +20,7 @@
 * Solidity (Smart Contracts), Ethereum Blockchain Development.
 * Passionate for Competitive Programming:
   - Codechef: 4⭐(max-rating: 1820) [see profile](https://www.codechef.com/users/faisal_5/)
-  - Codeforces: <strong>Pupil</strong> (max-rating: 1217) [see profile](https://codeforces.com/profile/cotex)
+  - Codeforces: <strong>Pupil</strong> (max-rating: 1218) [see profile](https://codeforces.com/profile/cotex)
   - Geeksforgeeks: 1800+ points [see profile](https://auth.geeksforgeeks.org/user/faisalfarooquee/practice/)
   - Leetcode: [see profile](https://leetcode.com/Cotex/)
   - HackerRank [see profile](https://www.hackerrank.com/Faisal_Farooquee)
@@ -30,7 +30,9 @@
 
 #### Profiles
 
+* [Leetcode](https://leetcode.com/Cotex/)
 * [Codechef](https://www.codechef.com/users/faisal_5/)
+* [Codeforces](https://codeforces.com/profile/cotex)
 * [Geeksforgeeks](https://auth.geeksforgeeks.org/user/faisalfarooquee/practice/)
 * [HackerRank](https://www.hackerrank.com/Faisal_Farooquee)
 * [Tryhackme](https://tryhackme.com/p/Butye)
