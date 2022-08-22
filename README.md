@@ -1,17 +1,39 @@
 # Hi there 👋
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Cotex05&label=Visitors&color=green&style=plastic%22%20alt=%22Cotex05" />
+  <a href="https://codeforces.com/profile/cotex">
+    <img src="https://img.shields.io/badge/Codeforces-1319+-red" />
+  </a>
+  <a href="https://www.codechef.com/users/faisal_5/">
+    <img src="https://img.shields.io/badge/Codechef-1820+-gold" />
+  </a>
+  <a href="https://leetcode.com/Cotex">
+    <img src="https://cp-logo.vercel.app/leetcode/Cotex" alt="Leetcode rating" />
+  </a>
+   <a href="https://auth.geeksforgeeks.org/user/faisalfarooquee/practice/">
+    <img src="https://img.shields.io/badge/GeeksForGeeks-1850+-red" />
+  </a>
+ </p>
+
 <div align="center">
 <img width="300" height="200" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia3.giphy.com%2Fmedia%2Fh408T6Y5GfmXBKW62l%2Fgiphy.gif&f=1&nofb=1" />
 </div>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Cotex05&label=Profile+Views&color=green&style=plastic%22%20alt=%22Cotex05" /> </p>
-
-#### This is Md Faisal Farooquee. I am in pre-final year, pursued B.Tech in the department of Information Technology.
+#### This is Md Faisal Farooquee. I am in final year, pursued B.Tech in Information Technology from Institute of Engineering and Management, Kolkata. Passionate for Competitive Programming & Problem Solving. I like to develop application which solves problem and makes our work easier.
 #### I use to develop cross platform React Native Mobile Apps and MERN Stack applications. I am also interested in Ethereum Blockchain technology and building Web3 based Dapps. 
 
+<p float="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Cotex05&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cotex05&layout=compact&theme=tokyonight">
+</p>
+
+<b>&#128200; Competitive Programming & Problem Solving Statistics</b>
+<p float="left">
+<img height="280em" width="auto" src="https://leetcard.jacoblin.cool/cotex?theme=dark&font=ABeeZee%20One&ext=contest" />
+<img height="150em" width="auto" src="https://codeforces-stats-api.herokuapp.com/stats?username=cotex&theme=2" />
+</p>
 
 ### Interests
 
@@ -20,13 +42,12 @@
 * Solidity (Smart Contracts), Ethereum Blockchain Development.
 * Passionate for Competitive Programming:
   - Codechef: 4⭐(max-rating: 1820) [see profile](https://www.codechef.com/users/faisal_5/)
-  - Codeforces: <strong>Pupil</strong> (max-rating: 1250) [see profile](https://codeforces.com/profile/cotex)
-  - Geeksforgeeks: 1800+ points [see profile](https://auth.geeksforgeeks.org/user/faisalfarooquee/practice/)
-  - Leetcode: [see profile](https://leetcode.com/Cotex/)
+  - Codeforces: <strong>Pupil</strong> (max-rating: 1319) [see profile](https://codeforces.com/profile/cotex)
+  - Geeksforgeeks: 1850+ points [see profile](https://auth.geeksforgeeks.org/user/faisalfarooquee/practice/)
+  - Leetcode: 1700+ Rating [see profile](https://leetcode.com/Cotex/)
   - HackerRank [see profile](https://www.hackerrank.com/Faisal_Farooquee)
 * Secondary interest in Ethical Hacking and Cyber Security, beginner in tryhackme. [see profile](https://tryhackme.com/p/Butye)
 * <img width="249" height="58" src="https://i.ibb.co/gRMr474/Butye-1.png" alt="TryHackMe" />
-
 
 #### Profiles
 
