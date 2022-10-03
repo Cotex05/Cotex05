@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Codeforces-1351+-red" />
   </a>
   <a href="https://www.codechef.com/users/cotex05/">
-    <img src="https://img.shields.io/badge/Codechef-1820+-gold" />
+    <img src="https://img.shields.io/badge/Codechef-1743+-gold" />
   </a>
   <a href="https://leetcode.com/Cotex">
     <img src="https://cp-logo.vercel.app/leetcode/Cotex" alt="Leetcode rating" />
