@@ -12,7 +12,7 @@
     <img src="https://cp-logo.vercel.app/leetcode/Cotex" alt="Leetcode rating" />
   </a>
    <a href="https://auth.geeksforgeeks.org/user/faisalfarooquee/practice/">
-    <img src="https://img.shields.io/badge/GeeksForGeeks-1850+-red" />
+    <img src="https://img.shields.io/badge/GeeksForGeeks-1900+-red" />
   </a>
  </p>
 
