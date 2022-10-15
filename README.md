@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Codeforces-1351+-red" />
   </a>
   <a href="https://www.codechef.com/users/cotex05/">
-    <img src="https://img.shields.io/badge/Codechef-1743+-gold" />
+    <img src="https://img.shields.io/badge/Codechef-1800+-gold" />
   </a>
   <a href="https://leetcode.com/Cotex">
     <img src="https://cp-logo.vercel.app/leetcode/Cotex" alt="Leetcode rating" />
@@ -41,7 +41,7 @@
 
 * Solidity (Smart Contracts), Ethereum Blockchain Development.
 * Passionate for Competitive Programming:
-  - Codechef: 3⭐(max-rating: 1743) [see profile](https://www.codechef.com/users/cotex05/)
+  - Codechef: 4⭐(max-rating: 1805) [see profile](https://www.codechef.com/users/cotex05/)
   - Codeforces: <strong>Pupil</strong> (max-rating: 1351) [see profile](https://codeforces.com/profile/cotex)
   - Geeksforgeeks: 1900+ points [see profile](https://auth.geeksforgeeks.org/user/faisalfarooquee/practice/)
   - Leetcode: 1700+ Rating [see profile](https://leetcode.com/Cotex/)
