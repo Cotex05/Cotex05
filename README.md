@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Codechef-1800+-gold" />
   </a>
   <a href="https://leetcode.com/Cotex">
-    <img src="https://cp-logo.vercel.app/leetcode/Cotex" alt="Leetcode rating" />
+    <img src="https://img.shields.io/badge/Leetcode-1700+-darkgreen" alt="Leetcode rating" />
   </a>
    <a href="https://auth.geeksforgeeks.org/user/faisalfarooquee/practice/">
     <img src="https://img.shields.io/badge/GeeksForGeeks-1900+-red" />
