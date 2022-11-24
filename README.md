@@ -3,10 +3,10 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Cotex05&label=Visitors&color=green&style=plastic%22%20alt=%22Cotex05" />
   <a href="https://codeforces.com/profile/cotex">
-    <img src="https://img.shields.io/badge/Codeforces-1351+-red" />
+    <img src="https://img.shields.io/badge/Codeforces-1354+-red" />
   </a>
   <a href="https://www.codechef.com/users/cotex05/">
-    <img src="https://img.shields.io/badge/Codechef-1800+-gold" />
+    <img src="https://img.shields.io/badge/Codechef-1847+-gold" />
   </a>
   <a href="https://leetcode.com/Cotex">
     <img src="https://img.shields.io/badge/Leetcode-1700+-darkgreen" alt="Leetcode rating" />
@@ -41,8 +41,8 @@
 
 * Solidity (Smart Contracts), Ethereum Blockchain Development.
 * Passionate for Competitive Programming:
-  - Codechef: 4⭐(max-rating: 1805) [see profile](https://www.codechef.com/users/cotex05/)
-  - Codeforces: <strong>Pupil</strong> (max-rating: 1351) [see profile](https://codeforces.com/profile/cotex)
+  - Codechef: 4⭐(max-rating: 1847) [see profile](https://www.codechef.com/users/cotex05/)
+  - Codeforces: <strong>Pupil</strong> (max-rating: 1354) [see profile](https://codeforces.com/profile/cotex)
   - Geeksforgeeks: 1900+ points [see profile](https://auth.geeksforgeeks.org/user/faisalfarooquee/practice/)
   - Leetcode: 1700+ Rating [see profile](https://leetcode.com/Cotex/)
   - HackerRank [see profile](https://www.hackerrank.com/Faisal_Farooquee)
