@@ -24,15 +24,16 @@
 #### This is Md Faisal Farooquee. I am in final year, pursued B.Tech in Information Technology from Institute of Engineering and Management, Kolkata. Passionate for Competitive Programming & Problem Solving. I like to develop application which solves problem and makes our work easier.
 #### I use to develop cross platform React Native Mobile Apps and MERN Stack applications. I am also interested in Ethereum Blockchain technology and building Web3 based Dapps. 
 
+<!--
 <p float="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Cotex05&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cotex05&layout=compact&theme=tokyonight">
 </p>
+-->
 
 <b>&#128200; Competitive Programming & Problem Solving Statistics</b>
 <p float="left">
 <img height="280em" width="auto" src="https://leetcard.jacoblin.cool/cotex?theme=dark&font=ABeeZee%20One&ext=contest" />
-<img height="150em" width="auto" src="https://codeforces-stats-api.herokuapp.com/stats?username=cotex&theme=2" />
 </p>
 
 ### Interests
