@@ -21,8 +21,8 @@
 </div>
 
 
-#### This is Md Faisal Farooquee. I am in final year, pursued B.Tech in Information Technology from Institute of Engineering and Management, Kolkata. Passionate for Competitive Programming & Problem Solving. I like to develop application which solves problem and makes our work easier.
-#### I use to develop cross platform React Native Mobile Apps and MERN Stack applications. I am also interested in Ethereum Blockchain technology and building Web3 based Dapps. 
+#### This is Md Faisal Farooquee. I have completed my B.Tech in Information Technology from Institute of Engineering and Management, Kolkata. Passionate for Competitive Programming & Problem Solving. I like to develop application which solves real world problems and makes our work easier.
+#### I use to develop cross platform React Native Mobile Apps and MERN Stack applications, my tech stacks also include Java Web Technologies. I am also interested in Generative AI, Machine Learning and Web3 DApp. 
 
 <!--
 <p float="left">
